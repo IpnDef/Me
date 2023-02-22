@@ -23,7 +23,7 @@ const greeting = {
   username: "Ipnu Def",
   title: "Hi all, I'm Ipnu",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "My name is Ipnu Alpri Yansyah. I am 21 years old. I am also a fast learner, adaptable and confident."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1qPqLtwVcX-eUUpQS2MZBYkEw8Cbb1Xlk/view?usp=sharing", // Set to empty to hide the button
@@ -174,14 +174,21 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "PT. Andiarta Muzizat (Ninja Xpres)",
+      company: "Warehouse Staff",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "Des 2021 - Sep 2022",
+      desc: "Ninja Xpress adalah satu-satunya layanan kurir express dengan 100% cakupan area di Asia Tenggara. Anda akan mendapatkan layanan yang konsisten dan berkualitas tinggi di semua negara dimanapun kami beroperasi.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+"Melakukan Bongkar Muat Barang"
+"Bertanggung jawab atas proses barang masuk dan keluar dari seluruh gudang"
+"Menjalankan proses inbound, outbound dan storage sesuai SOP perusahaan"
+"Mengatur tata letak dan posisi produk di dalam gudang"
+"Melakukan Stok Opname secara berkala"
+"Memastikan kebersihan gudang dan sekitar area kerja"
+"Memproses barang retur baik dari konsumen maupun retur kepada manufaktur"
+"Melakukan rekonsiliasi data laporan gudang dengan stok di sistem."
+"Membuat laporan stok harian..."
       ]
     },
     {
